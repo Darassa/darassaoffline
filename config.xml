@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.darassa.darassamobile"
+        id        = "com.darassa.darassaoffline"
         versionCode = "20210"
         version   = "1.0.0">
     <name>Darassa Mobile</name>
 
     <description>
-        Darassa Mobile, application officielle
+        Darassa Offline, application officielle
     </description>
 
     <author href="http://www.darassa.com" email="support@darassa.com">
