@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "darassaoffline",
-    "siteurl": "http://192.168.1.101/darassaoffline",
+    "siteurl": "http://192.168.1.101/darassa.local",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
