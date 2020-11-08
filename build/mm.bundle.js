@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.darassa.darassaoffline",
+    "app_id" : "com.darassa.darassamobile",
     "appname": "Darassa Academy",
     "desktopappname": "Darassa Desktop",
     "versioncode" : "2021",
@@ -71104,8 +71104,8 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "demo_sites": "",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "http://15.236.119.124/darassa.local",
+    "customurlscheme": "darassamobile",
+    "siteurl": "http://15.236.119.124/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
